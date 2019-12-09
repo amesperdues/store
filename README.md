@@ -5,7 +5,7 @@
   Gatsby Shopify starter
 </h1>
 
-To be further edited by the organization Âmes Perdues
+To be further edited by the organization Âmes Perdues.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d374a159-9ee3-4b02-91a3-ee3053990fcb/deploy-status)](https://app.netlify.com/sites/gatsby-shopify-starter/deploys)
 
